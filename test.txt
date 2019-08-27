@@ -1,0 +1,1 @@
+Cascade Method Pedestrian Recognition using Haar-like features based on Adaboost Algorithm
